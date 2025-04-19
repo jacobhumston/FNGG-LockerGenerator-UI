@@ -4,3 +4,4 @@ inquirer
 aiohttp
 asyncio
 yarl
+customtkinter
